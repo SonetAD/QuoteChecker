@@ -55,5 +55,3 @@ document.querySelectorAll('.reload').forEach((k) => {
     e.preventDefault();
   });
 });
-
-console.log('it is a test');
